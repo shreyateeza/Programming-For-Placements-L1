@@ -25,6 +25,17 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
+- Programming principles
+    - [ ] Learning a programing language well.
+    - [ ] Knowing pointers, references, variable types, memory allocation etc.
+    - [ ] Iteration, Condition check, File manipulation etc.
+    - [ ] Learn C language
+
+- Understanding complexity
+    - [ ] Big O notation.
+    - [ ] Space and time complexity
+    - [ ] Asymptotics
+
 - Data Structures
     - [ ] Arrays
         - [ ] Multi-dimension arrays
@@ -61,6 +72,19 @@ or the mentee's preferences.
     - [ ] Graph
         - [ ] Shortest path
         - [ ] Spanning tree
+
+- Interviwing principles
+    - [ ] Code quality
+    - [ ] Whiteboarding
+    - [ ] Expressing ideas
+    - [ ] Testability
+
+- Twoleaps Add-ons
+    - [ ] Complete 1 mock phone screen interview
+    - [ ] Resume review
+    - [ ] Build a Web presence
+
+
 
 
 ## Progress Tracking
