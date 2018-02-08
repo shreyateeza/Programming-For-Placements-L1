@@ -19,7 +19,7 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 
 ## Timeline
 
-<Add mentorship timeline here in weeks. Example: 8 weeks starting 10th August>
+8 weeks starting 8th February 2018.
 
 ## Goals
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
